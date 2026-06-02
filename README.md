@@ -15,5 +15,5 @@ Skills:
 - IPL Data Analysis
 
 ## Contact
-LinkedIn: your-link
-Email: your-email
+LinkedIn:https://www.linkedin.com/in/prakash-khant-325102353/<br>
+Email: khantprakash797@gmail.com
